@@ -1,2 +1,1 @@
-# Wipro_Phase-2
-This project features various forms like Contact, Survey, Feedback, Newsletter Subscription, and Restaurant Booking. Built with HTML &amp; CSS, it ensures responsive design, clean layout, and user-friendly interactions. Ideal for seamless data collection in different real-world applications. 🚀
+This repository contains various projects built using HTML, CSS, JavaScript, and TypeScript, showcasing responsive design, interactivity, and modern UI/UX principles. Projects include multi-form applications, to-do lists, carousels, dashboards, and more. Each project demonstrates structured code, clean styling, and dynamic functionality. 🚀
